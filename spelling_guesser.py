@@ -2,6 +2,7 @@
 
 print('what is the correct english spelling of the numer \'11\' is?')
 answer = 'eleven'
+#answer = input('enter your question')
 guess = ""
 limit = 3
 trial = 0
